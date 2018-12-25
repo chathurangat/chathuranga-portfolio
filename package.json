@@ -1,0 +1,14 @@
+{
+  "name": "chathuranga-portfolio",
+  "version": "1.0.0",
+  "description": "Responsive portfolio for www.chathuranga.me",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Chathuranga Tennakoon",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
